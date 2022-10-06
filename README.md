@@ -72,8 +72,8 @@ Tenho 29 anos, moro em Betim/MG, sou apaixonado por programação e tecnologia. 
 ##
 <p align="center">
 <a href="https://github.com/guilhermemayrinkal">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=briangonc&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=briangonc&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=guilhermemayrinkal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=guilhermemayrinkal&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 <div align="center"> 
