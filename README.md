@@ -78,6 +78,6 @@ Tenho 29 anos, moro em Betim/MG, sou apaixonado por programação e tecnologia. 
 </p>
 <div align="center"> 
      
-  ![Snake animation](https://github.com/briangonc/briangonc/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/guilhermemayrinkal/guilhermemayrinkal/blob/output/github-contribution-grid-snake.svg)
  
 </div>
